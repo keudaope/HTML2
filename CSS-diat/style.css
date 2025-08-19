@@ -1,0 +1,46 @@
+        body{
+            color: green;
+            font-family: Verdana, Arial, Geneva, Helvetica;
+            background-color: burlywood;
+            font-size: 12px;
+            margin: 0;
+        }
+        h1, h2{
+            text-decoration: underline;
+            font-size: 150%;
+        }
+        h1{
+            color: pink;
+        }
+
+        .para1{
+            color: blue;
+            font-size: 0.8em;
+        }
+        .para2{
+            color: red;
+            font-size: xx-small;
+        }
+        .para3{
+            color: red;
+            font-size: 10px;
+            line-height: 1.5em;
+            background-color: #e5e4d7;
+            padding: 10px;
+            Border-width: 10px 5px;
+            Border-style: solid;
+            Border-color: black;
+            margin: 0 20px;
+        }
+        .para4{
+            color: red;
+            font-size: 10px;
+            line-height: 1.5em;
+            background-color: #e5e4d7;
+            padding: 10px;
+            Border-width: 3px;
+            Border-style: dashed;
+            Border-color: blue;
+            margin: 0 10px;
+            margin-left: 200px;
+        }
